@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Disease Detection
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Disease Detection</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  
+
+  <ion-grid>
+    <ion-row> 
+    <ion-col size="6" *ngFor="let photo of photoService.photos; index as position">
+      <ion-img src="{{ photo.base64 ? photo.base64 : photo.webviewPath }}" (click)="showActionSheet(photo, position)"></ion-img>
+    </ion-col>
+    <ion-col size="5">
+      <img src="\assets\images\1a4047d7-23d6-4bba-ba10-b6e7005ea01b___FREC_Scab3193_90deg.JPG" (click)="detect()"/>
+      <img src="\assets\images\5d1c501f-ce9a-4538-ac05-bda251444cba___JR_FrgES3035_new30degFlipLR.JPG" (click)="detect()"/>
+      <img src="\assets\images\82a3d470-940b-431f-9d79-3963b4e41028___GH_HLLeaf 475.JPG" (click)="detect()"/>
+      <img src="\assets\images\135dcfad-367c-483b-921b-5d24986c471c___PSU_CG 2221_newPixel25.JPG" (click)="detect()"/>
+    </ion-col>
+    </ion-row>
+  </ion-grid>
+
+
+  <ion-fab vertical="bottom" horizontal="center" slot="fixed">
+    <ion-fab-button (click)="photoService.addNewToGallery()">
+      <ion-icon name="camera"></ion-icon>
+    </ion-fab-button>
+  </ion-fab> 
+
+</ion-content>
