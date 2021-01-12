@@ -1,0 +1,58 @@
+﻿html{
+    border:dotted;
+    border-color:lightgrey;
+}
+
+body{
+        background-color:aliceblue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    background-color: #dddddd;
+     overflow: hidden;
+}
+
+li{
+    display: inline;
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+li a {
+    display: block;
+    color:darkred;
+    text-align: center;
+    padding: 15px 60px;
+    text-decoration: none;
+}
+
+label1{
+    align-content:flex-end;
+}
+
+.footer{
+    
+    background-color:darkgray;
+    height:70px;
+}
+#foot {
+color:#2F2E2E;
+padding-top:24px;
+letter-spacing: 0.2em;
+text-align:center;
+font:normal normal normal 15px/1.4em avenir-lt-w01_35-ligth1475496,sans-serif;
+}
+h2{
+    text-align:center;
+    padding-top:24px;
+    color:#2f2e2e;
+}

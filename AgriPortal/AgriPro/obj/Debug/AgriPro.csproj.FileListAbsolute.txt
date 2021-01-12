@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\bin\AgriPro.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\bin\AgriPro.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\bin\AgriPro.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\obj\Debug\AgriPro.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\obj\Debug\AgriPro.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\AgriPro\AgriPro\obj\Debug\AgriPro.pdb
