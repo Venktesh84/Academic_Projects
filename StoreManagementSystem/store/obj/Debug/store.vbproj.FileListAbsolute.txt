@@ -1,0 +1,61 @@
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\bin\Debug\store.exe.config
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\bin\Debug\store.exe
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\bin\Debug\store.pdb
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\bin\Debug\store.xml
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.vbprojResolveAssemblyReference.cache
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Form1.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Resources.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.vbproj.GenerateResource.Cache
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.exe
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.xml
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.pdb
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Main.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Supplier.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Customer.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Purchase.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Purchasereturn.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Sales.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Salesreturn.resources
+c:\users\saksham\documents\visual studio 2015\Projects\store\store\obj\Debug\store.Stocks.resources
+C:\Users\SAKSHAM\Documents\Visual Studio 2015\Projects\store\store\obj\Debug\store.Bill.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\bin\Debug\store.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\bin\Debug\store.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\bin\Debug\store.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\bin\Debug\store.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Bill.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Customer.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Main.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Purchase.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Purchasereturn.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Sales.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Salesreturn.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Stocks.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.Supplier.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\store\store\obj\Debug\store.vbproj.GenerateResource.Cache
+E:\COLLEGE\Projects\store\store\bin\Debug\store.exe.config
+E:\COLLEGE\Projects\store\store\bin\Debug\store.exe
+E:\COLLEGE\Projects\store\store\bin\Debug\store.pdb
+E:\COLLEGE\Projects\store\store\bin\Debug\store.xml
+E:\COLLEGE\Projects\store\store\obj\Debug\store.vbprojAssemblyReference.cache
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Bill.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Customer.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Form1.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Main.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Resources.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Purchase.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Purchasereturn.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Sales.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Salesreturn.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Stocks.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.Supplier.resources
+E:\COLLEGE\Projects\store\store\obj\Debug\store.vbproj.GenerateResource.cache
+E:\COLLEGE\Projects\store\store\obj\Debug\store.vbproj.CoreCompileInputs.cache
+E:\COLLEGE\Projects\store\store\obj\Debug\store.exe
+E:\COLLEGE\Projects\store\store\obj\Debug\store.xml
+E:\COLLEGE\Projects\store\store\obj\Debug\store.pdb
